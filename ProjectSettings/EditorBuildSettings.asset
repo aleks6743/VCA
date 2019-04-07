@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hall.unity
+    guid: 0bd9ba0bf55f4c04abf4244bac5c262c
+  - enabled: 1
+    path: Assets/123.unity
+    guid: 4659b81f7accc7d4e927f7a42f37d79c
+  - enabled: 1
+    path: Assets/RubiconMap.unity
+    guid: 6c6345cfa29f48d4a9ea6e4242ef4aee
+  m_configObjects: {}
